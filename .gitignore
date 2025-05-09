@@ -1,0 +1,73 @@
+# Node.js dependencies
+node_modules/
+package-lock.json
+yarn.lock
+
+# Uploaded files
+uploads/
+
+# Conversion output
+output/
+converted_*/
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# IDE folders
+.idea/
+.vscode/
+*.sublime-workspace
+*.sublime-project
+.vs/
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Temporary files
+temp/
+tmp/
+*.tmp
+*.bak
+*.swp
+
+# Environment variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Coverage directory
+coverage/
+
+# Debug logs
+logs/
+
+# Build outputs
+dist/
+build/
+
+# Original Perfecto files that were uploaded for conversion
+# Uncomment if you want to exclude specific filetypes that are only used for input
+# *.perfecto.java
+# *.perfectomobile.js
+
+# Test files
+__tests__/
+test/
+tests/
